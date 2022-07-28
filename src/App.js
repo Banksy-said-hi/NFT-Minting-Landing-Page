@@ -51,6 +51,7 @@ function App() {
 
       <header className="App-header">
         <h1>JugJug</h1>
+        <h2>Sina</h2>
         <h3>{errorMessage}</h3>
         <h3>{defaultAccount}</h3>
       </header>
